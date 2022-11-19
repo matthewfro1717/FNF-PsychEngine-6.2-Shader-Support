@@ -1,7 +1,4 @@
 package;
-
-#if android
-import android.AndroidTools;
 import android.stuff.Permissions;
 #end
 import lime.app.Application;
